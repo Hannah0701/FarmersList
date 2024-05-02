@@ -1,4 +1,3 @@
-// Export the class using module.exports.
 // In Product.js, create a class called Product using the following class diagram above. Product should have the following properties and methods:
 class Product {
   // name, price, and description are set by the constructor method.
@@ -16,6 +15,7 @@ class Product {
   }
 }
 
-// Import the class into index.js with the name Product.
-
+// Export the class using module.exports.
 module.exports = { Product };
+
+// Import the class into index.js with the name Product.

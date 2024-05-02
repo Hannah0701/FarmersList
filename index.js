@@ -2,6 +2,7 @@
 
 // Import the class into index.js with the name Product.
 const { Product } = require('./classes/Product');
+const { Cart } = require('./classes/Cart');
 
 
 
