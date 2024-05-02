@@ -1,5 +1,7 @@
 // Import Classes Here
 
+// Import the class into index.js with the name Product.
+const { Product } = require('./classes/Product');
 
 
 
